@@ -12,4 +12,3 @@ Jekyll 提供了强大的代码支持：
 def function(x):
     return x**2
 {% endhighlight %}
-
