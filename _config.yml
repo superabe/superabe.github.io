@@ -1,14 +1,26 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: linlin
+name: 生命在于折腾
 url: http://superabee.com
-email: superabee@gmail.com 
+email: superabee@gmail.com
+
+author: linlin
 
 # Build settings
 markdown: kramdown
+
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
+  - title: Tags
+    class: fa fa-tags
+    href: /tags.html
+  - title: About
+    class: fa fa-user
+    href: /about.html
+  - title: Gallery
+    class: fa fa-film
+    href: http://foto.lhzhang.com
+  - title: Subscribe
+    class: fa fa-rss
+    href: /feed.xml
+
