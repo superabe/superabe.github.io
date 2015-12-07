@@ -2,6 +2,5 @@
 layout: post
 title: 小试牛刀
 tags: 杂记
-categories:life
 ---
 在vim里写点东西还真是有一种特别的感觉。生活琐事是今年的主题，没有空静下来思考。希望明年能够有所改善。未完，待续。
