@@ -2,7 +2,6 @@
 layout: post
 title:  "第一篇"  
 date:   2015-12-03 09:20:03 +0800
-categories: jekyll update
 ---
 第一篇用jekyll的blog。
 
