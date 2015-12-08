@@ -11,4 +11,8 @@ layout: default
   <section class="post">
   {{ content }}
   </section>
-</article>
+  </article>
+
+{% if page.comments %}
+{% include comments.markdown %}
+{% endif %}
