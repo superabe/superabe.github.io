@@ -12,22 +12,24 @@
     <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
   </head>
   <body>
+      <div id="container">
       <div id="main" role="main">
         <header>
           <div id="header">
             <h1><a title="{{ site.name }}" class="" href="/">{{ site.name }}</a></h1>
         </div>
-          <nav>
-          <span><a title="home page" class=""  href="/">HOME</a></span>
-          <span><a title="about" class="" href="/about">ABOUT</a></span>
-          <span><a title="archive" class="" href="/archive">ARCHIVE</a></span>
-          <span><a title="categories" class="" href="/categories">CATEGORY</a></span>
-          <span><a title="tags" class="" href="/tags">TAGS</a></span>
-          </nav>
-          </header>
-        <div id="content">
+         </header>
+         <nav>
+      <span><a title="home page" class=""  href="/">HOME</a></span>
+      <span><a title="about" class="" href="/about">ABOUT</a></span>
+      <span><a title="archive" class="" href="/archive">ARCHIVE</a></span>
+      <span><a title="categories" class="" href="/categories">CATEGORIES</a></span>
+      <span><a title="tags" class="" href="/tags">TAGS</a></span>
+      </nav>
+
+         <article id="content">
         {{ content }}
-        </div>
+        </article>
         <footer>
           <div>
             {% assign first_post = site.posts | last %}
@@ -35,5 +37,6 @@
           </div>
         </footer>
     </div> <!-- main -->
+</div>
   </body>
 </html>

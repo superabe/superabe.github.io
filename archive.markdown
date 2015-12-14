@@ -1,9 +1,11 @@
 ---
-title: archive
+title: Archive
 layout: page
 ---
 
 <ul class="listing">
+{% capture year %}{{ site.time | date:"%Y"}}{% endcapture %}
+<li class="listing-seperator">{{ year }}</li>
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
