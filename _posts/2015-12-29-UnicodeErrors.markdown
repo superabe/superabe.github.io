@@ -1,6 +1,7 @@
 ---
 layout: post
 title: UnicodeErrors in Python 
+tags: Python Unicode
 ---
 >### 什么是[Unicode](https://en.wikipedia.org/wiki/Unicode)
 计算机能看懂文字只有0和1，而这些01数字串对我们是没有意义的，我们需要语言文字以及各种字符表情进行交流。这就需要一个标准将计算机语言和我们的语言统一起来。于是ASCII编码应运而生，之后又出现了ISO 8891-1、ISO Latin 1等编码。但是这些编码有一个缺陷，就是表示字符个数有限制，比如ASCII最多只能表示128个字符，而世上语言千千万，显然是不够的。为了解决这个矛盾，上个世纪80年代提出了[Unicode](https://en.wikipedia.org/wiki/Unicode)编码，能够提供110多万的字符空间，UTF-8是最常用的Unicode字符集。  
