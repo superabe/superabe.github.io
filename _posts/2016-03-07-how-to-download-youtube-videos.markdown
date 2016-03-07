@@ -4,7 +4,7 @@ title: "Youtube上的视频如何下载？"
 tags: Youtube
 categories: 杂记
 ---
-- Youtube是google旗下的一个视频网站，上面有海量的视频资源，不过可惜的是在天朝已被墙多年,作为一个科研狗，这就错过许多实用的教程、实验protocal、优秀大学的公开课程blablabla。。。这是一个多么悲伤的故事。但是，幸运的你如果懂得如何[翻墙](https://blog.phpgao.com/shadowsocks_on_linux.html)（世界这么大，墙外的更美好！），那么，我们就来了解一下，如何去下载Youtube上的视频，毕竟以国内这么渣的网速，还是下载到本地看视频的好。  
+- YouTube是google旗下的一个视频网站，上面有海量的视频资源，不过可惜的是在天朝已被墙多年,作为一个科研狗，这就错过许多实用的教程、实验protocal、优秀大学的公开课程blablabla。。。这是一个多么悲伤的故事。但是，幸运的你如果懂得如何[翻墙](https://blog.phpgao.com/shadowsocks_on_linux.html)（世界这么大，墙外的更美好！），生活就瞬间美好了。然而以国内这么渣的网速，特别是校园网，YouTube视频太卡，还是下载到本地吧，什么？不能下载？这里介绍两种能够下载YouTube视频的方法。  
 
 ## <font color='green'>1. 简便类</font>
 - 有许多免费的网页下载可以使用，只需要把视频的地址粘贴一下，一键下载。
