@@ -108,12 +108,12 @@ header {
       font-family: Georgia, Hiragino Sans GB, Microsoft YaHei, sans-serif;
       color: #2f4f4f; }
 
-#container{width:600px;margin:2em auto;display:block;padding:0 2em;}
+#container{width:50%;margin:2em auto;display:block;padding:0 2em;position: relative;}
 nav{font-family:Courier, sans-serif;font-size:1.1em;float:left;margin-left:-12em;width:9em;text-align:right;}
 nav a{display:block;padding:.7em 1em;color:#000000;}
 
 #content {
-  margin: 0 auto;
+  margin: 1 auto;
   line-height: 2em; }
   @media screen and (min-width: 320px) {
     #content {
