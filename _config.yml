@@ -3,7 +3,7 @@ url: http://linlin.space
 email: superabee@gmail.com
 title: 学海无涯
 author: linlin
-
+date_format: "<small style='color: lightgray;'>%A, %m/%d/%y</small>"
 
 # Google services
 google_verification:
