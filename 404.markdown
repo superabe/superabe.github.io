@@ -1,8 +1,13 @@
 ---
-title: 404
-layout: page
+layout: center
+permalink: /404.html
 ---
 
-Nothing found :(
+# 404
 
-But you still can have a [look around](/index.html)
+Sorry, we can't seem to find this page's pixylls.
+
+<div class="mt3">
+  <a href="{{ site.baseurl }}/" class="button button-blue button-big">Home</a>
+  <a href="{{ site.baseurl }}/contact/" class="button button-blue button-big">Contact</a>
+</div>
